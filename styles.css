@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+img {
+    width: 3rem;
+    /* border: 2px outset red; */
+    margin-left: -10px;
+    padding: 0;
+
+}
+
+.input-container {
+    border: 1px solid green;
+    display: flex;
+    padding: 1rem;
+}
+
+input {
+    margin-top: 8px;
+    height: 30px;
+    z-index: 100;
+}
+.phone {
+    border:2px outset blue;
+    border-radius: 1.5rem;
+}
+
+#img-container {
+    /* border: 1px solid red; */
+    padding: 0;
+
+}
